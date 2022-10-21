@@ -1,0 +1,19 @@
+.success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+  }
+
+  .success, .error{
+    width: 20%;
+    border: 1px solid;
+    margin: 10px 0px;
+    padding:15px 10px 15px 50px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    display: inline-block;
+  }
+
+  .error {
+    color: #D8000C;
+    background-color: #FFBABA;
+    }
